@@ -1,0 +1,7 @@
+.cart {
+  border: 2px solid lightgrey;
+  padding: 30px 0px;
+}
+.cart button {
+  margin-top: 20px;
+}

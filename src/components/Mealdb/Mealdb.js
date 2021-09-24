@@ -32,7 +32,7 @@ const Mealdb = () => {
                      <input  onChange={searchHandle} type="text" placeholder="Search Your Item" />
                    </div>
         </div>
-              <div class="row">
+              <div class="row ">
             <div className="col-md-9">
                 <div className="row">
                                         {
